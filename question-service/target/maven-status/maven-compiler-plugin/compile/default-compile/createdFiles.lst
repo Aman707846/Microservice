@@ -1,0 +1,12 @@
+com\amntelusko\question_service\QuestionServiceApplication.class
+com\amntelusko\question_service\dao\QuizDao.class
+com\amntelusko\question_service\model\QuestionWrapper.class
+com\amntelusko\question_service\model\Quiz.class
+com\amntelusko\question_service\controller\QuestionController.class
+com\amntelusko\question_service\model\QuestionWrapper$QuestionWrapperBuilder.class
+com\amntelusko\question_service\service\QuestionService.class
+com\amntelusko\question_service\controller\QuizController.class
+com\amntelusko\question_service\model\Question$QuestionBuilder.class
+com\amntelusko\question_service\dao\QuestionDao.class
+com\amntelusko\question_service\service\QuizService.class
+com\amntelusko\question_service\model\Question.class
